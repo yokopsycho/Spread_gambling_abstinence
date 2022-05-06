@@ -23,7 +23,7 @@ To create Figure 3, enter the following code.
 
 python figure3.py -i figure3data.csv
 
-Unfortunately, we are unable to disclose data for Figures 4, 5, and 6 because personal information is contained within the data. However, Figures 4, 5, and 6 can be created by using the following code.
+Unfortunately, I am unable to disclose data for Figures 4, 5, and 6 because personal information is contained within the data. However, Figures 4, 5, and 6 can be created by using the following code.
 
 python figure4.py
 genuine20210514b.py
